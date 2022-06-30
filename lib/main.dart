@@ -56,7 +56,7 @@ class Application extends StatelessWidget {
         ),
         SizedBox(height: 20),
         CircleAvatar(
-          backgroundImage: AssetImage('images/profile2.jpg'),
+          backgroundImage: AssetImage('images/myAvatar.png'),
           radius: 70,
         ),
         SizedBox(height: 15),
