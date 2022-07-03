@@ -4,7 +4,7 @@
 <br/>
 
 ## 📍 Support
--  IOS
+- 🍎 IOS
 - 🤖 Android
 - 🖥 Web
 
