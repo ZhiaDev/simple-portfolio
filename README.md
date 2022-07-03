@@ -8,7 +8,7 @@
 - 🤖 Android
 - 🖥 Web
 
-
+<br/>
 
 ## 📱 Screenshot 
 ![banner](https://github.com/SharifiDev/simple_portfolio/raw/master/banner.png)
